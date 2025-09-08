@@ -1,6 +1,6 @@
 public class Mian {
 	public static void main(String[] args) {
-		//merge test
+		//merge test adasdas
 		new Hello().say();
 	}
 }
